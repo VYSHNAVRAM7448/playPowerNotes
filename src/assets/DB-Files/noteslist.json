@@ -1,0 +1,75 @@
+{
+    "notes":[
+        {
+            "noteId":1,
+            "noteTitle":"New Note 1",
+            "noteSubject":"New Note Sample Content 1",
+            "encryptionStatus":false,
+            "password":"--"
+        },
+        {
+            "noteId":2,
+            "noteTitle":"New Note 2",
+            "noteSubject":"New Note Sample Content 2",
+            "encryptionStatus":false,
+             "password":"--"
+        },
+        {
+            "noteId":3,
+            "noteTitle":"New Note 3",
+            "noteSubject":"New Note Sample Content 3",
+            "encryptionStatus":false,
+             "password":"--"
+        },
+        {
+            "noteId":4,
+            "noteTitle":"New Note 4",
+            "noteSubject":"New Note Sample Content 4",
+            "encryptionStatus":false,
+             "password":"--"
+        },
+        {
+            "noteId":5,
+            "noteTitle":"New Note 5",
+            "noteSubject":"New Note Sample Content 5",
+            "encryptionStatus":false,
+             "password":"--"
+        },
+        {
+            "noteId":6,
+            "noteTitle":"New Note 6",
+            "noteSubject":"New Note Sample Content 6",
+            "encryptionStatus":false,
+             "password":"--"
+        },
+        {
+            "noteId":7,
+            "noteTitle":"New Note 7",
+            "noteSubject":"New Note Sample Content 7",
+            "encryptionStatus":false,
+             "password":"--"
+        },
+        {
+            "noteId":8,
+            "noteTitle":"New Note 8",
+            "noteSubject":"New Note Sample Content 8",
+            "encryptionStatus":false,
+             "password":"--"
+        },
+        {
+            "noteId":9,
+            "noteTitle":"New Note 9",
+            "noteSubject":"New Note Sample Content 9",
+            "encryptionStatus":false,
+             "password":"--"
+        },
+        {
+            "noteId":10,
+            "noteTitle":"New Note 10",
+            "noteSubject":"New Note Sample Content 10",
+            "encryptionStatus":false,
+             "password":"--"
+        }
+
+    ]
+}
